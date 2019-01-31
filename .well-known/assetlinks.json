@@ -10,7 +10,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.example.myapplication",
+    "package_name": "com.harishannam.nativexosample",
     "sha256_cert_fingerprints":
     ["2D:9F:31:6D:98:BE:AE:A4:3B:80:1F:D1:C1:56:EA:D2:2F:2C:1A:F5:D0:DC:70:5A:B7:CA:4F:26:D7:64:61:C3"]
   }
