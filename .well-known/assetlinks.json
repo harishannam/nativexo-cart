@@ -23,5 +23,13 @@
         "sha256_cert_fingerprints":
         ["E2:D4:8E:3A:0D:0F:7B:5E:E4:D0:F6:79:97:95:6E:96:97:11:CD:6A:CA:C6:5D:BE:8C:A1:2D:0D:4B:A8:8F:2B"]
       }
+  },{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.paypal.android.p2pmobile",
+      "sha256_cert_fingerprints":
+      ["B4:53:D3:7C:78:28:56:F7:82:A8:E0:9F:14:EE:20:B8:4F:49:A3:10:75:F4:7F:D3:A0:79:82:D8:CA:FE:FF:D9"]
+    }
   }
 ]
