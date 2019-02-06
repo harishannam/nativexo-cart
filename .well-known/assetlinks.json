@@ -31,5 +31,13 @@
       "sha256_cert_fingerprints":
       ["B4:53:D3:7C:78:28:56:F7:82:A8:E0:9F:14:EE:20:B8:4F:49:A3:10:75:F4:7F:D3:A0:79:82:D8:CA:FE:FF:D9"]
     }
+  },{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.paypal.dereanderson.syrnativeandroid",
+      "sha256_cert_fingerprints":
+      ["2D:9F:31:6D:98:BE:AE:A4:3B:80:1F:D1:C1:56:EA:D2:2F:2C:1A:F5:D0:DC:70:5A:B7:CA:4F:26:D7:64:61:C3"]
+    }
   }
 ]
