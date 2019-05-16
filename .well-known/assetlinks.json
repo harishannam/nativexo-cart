@@ -1,68 +1,15 @@
-[
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.harishannam.nativexosample",
-      "sha256_cert_fingerprints":
-      ["E2:D4:8E:3A:0D:0F:7B:5E:E4:D0:F6:79:97:95:6E:96:97:11:CD:6A:CA:C6:5D:BE:8C:A1:2D:0D:4B:A8:8F:2B"]
-    }
-  },{
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.harishannam.nativexosample",
-      "sha256_cert_fingerprints":
-      ["2D:9F:31:6D:98:BE:AE:A4:3B:80:1F:D1:C1:56:EA:D2:2F:2C:1A:F5:D0:DC:70:5A:B7:CA:4F:26:D7:64:61:C3"]
-    }
-  },{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.paypal.dereanderson.syrnativeandroid",
-        "sha256_cert_fingerprints":
-        ["E2:D4:8E:3A:0D:0F:7B:5E:E4:D0:F6:79:97:95:6E:96:97:11:CD:6A:CA:C6:5D:BE:8C:A1:2D:0D:4B:A8:8F:2B"]
-      }
-  },{
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.paypal.android.p2pmobile",
-      "sha256_cert_fingerprints":
-      ["B4:53:D3:7C:78:28:56:F7:82:A8:E0:9F:14:EE:20:B8:4F:49:A3:10:75:F4:7F:D3:A0:79:82:D8:CA:FE:FF:D9"]
-    }
-  },{
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.paypal.dereanderson.syrnativeandroid",
-      "sha256_cert_fingerprints":
-      ["2D:9F:31:6D:98:BE:AE:A4:3B:80:1F:D1:C1:56:EA:D2:2F:2C:1A:F5:D0:DC:70:5A:B7:CA:4F:26:D7:64:61:C3"]
-    }
-  },
-  {
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.paypal.dereanderson.syrnativeandroid",
-    "sha256_cert_fingerprints":
-    ["87:07:14:10:7B:92:32:FC:23:A5:EF:47:CB:E1:37:45:58:9A:CD:5B:47:CD:F5:15:DA:2E:2A:27:77:6B:A5:8A"]
-  }
-},
-  {
- "relation": ["delegate_permission/common.handle_all_urls"],
- "target": {
-   "namespace": "android_app",
-   "package_name": "com.paypal.dereanderson.syrnativeandroid",
-   "sha256_cert_fingerprints":
-   ["8E:9D:47:D7:8B:9D:4A:55:36:FF:9E:96:80:3B:1F:9B:4D:E9:63:81:1B:13:9E:76:DA:66:CD:BC:18:5A:AD:F0"]
- }
-},{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.harishannam.basicapplink",
-    "sha256_cert_fingerprints":
-    ["E2:D4:8E:3A:0D:0F:7B:5E:E4:D0:F6:79:97:95:6E:96:97:11:CD:6A:CA:C6:5D:BE:8C:A1:2D:0D:4B:A8:8F:2B"]
-  }
+[{
+	"relation": ["delegate_permission/common.handle_all_urls"],
+	"target": {
+		"namespace": "android_app",
+		"package_name": "com.harishannam.nativexosample",
+		"sha256_cert_fingerprints": ["E2:D4:8E:3A:0D:0F:7B:5E:E4:D0:F6:79:97:95:6E:96:97:11:CD:6A:CA:C6:5D:BE:8C:A1:2D:0D:4B:A8:8F:2B"]
+	}
+}, {
+	"relation": ["delegate_permission/common.handle_all_urls"],
+	"target": {
+		"namespace": "android_app",
+		"package_name": "com.example.nativecheckouttest",
+		"sha256_cert_fingerprints": ["E2:D4:8E:3A:0D:0F:7B:5E:E4:D0:F6:79:97:95:6E:96:97:11:CD:6A:CA:C6:5D:BE:8C:A1:2D:0D:4B:A8:8F:2B"]
+	}
 }]
